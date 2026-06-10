@@ -1,0 +1,14 @@
+,value
+BDI_V1,0.0
+BDI_V2,0.0
+LogRank_p_V1,0.615651
+LogRank_p_V2,0.615651
+Wilcoxon_p_V2,0.755925
+RMST_delta,-0.0577
+Sortino_V1,-4.4528
+Sortino_V2,-4.4528
+FAR,0.0
+Trades_V1,29.0
+Trades_V2,29.0
+CGDSL_k,3.062
+CGDSL_tau,-1.204
